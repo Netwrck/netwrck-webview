@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
         mWebView.loadUrl("http://wordsmashing.com");
 
         // Stop local links and redirects from opening in browser instead of WebView
-        // mWebView.setWebViewClient(new MyAppWebViewClient());
+        mWebView.setWebViewClient(new MyAppWebViewClient());
 
         // Use local resource
         // mWebView.loadUrl("file:///android_asset/www/index.html");
