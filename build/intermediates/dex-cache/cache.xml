@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lee/code/webview/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="24381eafd7544b7901d2c6cab21ccc715be5461a">
+        <dex dex="/home/lee/code/webview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc231bfffa07747219c5f47c99fddbaef57692e4/classes.dex" />
+    </item>
+    <item
+        jar="/home/lee/code/webview/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="08255a8e779ddc3b9db5d289d581a993ad4593f9">
+        <dex dex="/home/lee/code/webview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5eb421e7eac1175942b3291a775a79af8958cc20/classes.dex" />
+    </item>
+
+</items>
