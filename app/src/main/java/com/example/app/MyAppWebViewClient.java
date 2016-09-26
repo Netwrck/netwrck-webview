@@ -1,4 +1,4 @@
-package com.example.app;
+package com.wordsmashing.app;
 
 import android.content.Intent;
 import android.net.Uri;
