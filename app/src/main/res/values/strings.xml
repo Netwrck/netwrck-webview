@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Word Smashing</string>
-    <string name="hello_world">Word Smashing</string>
+    <string name="app_name">Netwrck</string>
+    <string name="hello_world">netwrck</string>
     <string name="action_settings">Settings</string>
 
 </resources>

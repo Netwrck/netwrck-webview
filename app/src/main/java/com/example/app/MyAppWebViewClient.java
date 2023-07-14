@@ -1,4 +1,4 @@
-package com.wordsmashing.app;
+package com.netwrck.app;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -9,7 +9,7 @@ public class MyAppWebViewClient extends WebViewClient {
 
     @Override
     public boolean shouldOverrideUrlLoading(WebView view, String url) {
-        if (Uri.parse(url).getHost().endsWith("wordsmashing.com")) {
+        if (Uri.parse(url).getHost().endsWith("netwrck.com")) {
             return false;
         }
 

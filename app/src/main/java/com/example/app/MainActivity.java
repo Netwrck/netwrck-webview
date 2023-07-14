@@ -1,4 +1,4 @@
-package com.wordsmashing.app;
+package com.netwrck.app;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -28,10 +28,10 @@ public class MainActivity extends Activity {
         webSettings.setJavaScriptEnabled(true);
 
         // Use remote resource
-        mWebView.loadUrl("http://wordsmashing.com");
+        mWebView.loadUrl("https://netwrck.com");
 
         // Stop local links and redirects from opening in browser instead of WebView
-        mWebView.setWebViewClient(new MyAppWebViewClient());
+        mWebView.setWebViewClient(new com.netwrck.app.MyAppWebViewClient());
 
         // Use local resource
         // mWebView.loadUrl("file:///android_asset/www/index.html");

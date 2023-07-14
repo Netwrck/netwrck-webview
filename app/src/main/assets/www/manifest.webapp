@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "name": "Word Smashing",
-  "description": "Make words! lots of words! two at once! heaps in a row! then you'll get bonus points! Get words up, down, forward and backwards! On easy, get words with 2+ letters, on medium 3+, Hard 4+! When the board fills up its game over!",
+  "name": "netwrck",
+  "description": "Social Chat With AI Characters - Create your Own AI Characters",
   "launch_path": "/",
   "icons": {
     "128": "/images/touch/icon-128x128.png"
@@ -18,8 +18,8 @@
   },
   "locales": {
     "en": {
-      "name": "Word Smashing",
-      "description": "Make words! lots of words! two at once! heaps in a row! then you'll get bonus points! Get words up, down, forward and backwards! On easy, get words with 2+ letters, on medium 3+, Hard 4+! When the board fills up its game over!",
+      "name": "netwrck",
+      "description": "Social Chat With AI Characters - Create your Own AI Characters - Chat with the best AI Characters from Anime, TV, Movies Games and Real life",
     }
   }
 }
